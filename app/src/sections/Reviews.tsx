@@ -1,4 +1,5 @@
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react';
+import { useState } from 'react';
 import { useTranslation } from '../i18n';
 import IbrahimImage from '../assets/images/ibrahim.png';
 import TolgaImage from '../assets/images/tolga.png';
