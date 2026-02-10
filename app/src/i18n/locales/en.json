@@ -1,0 +1,196 @@
+{
+  "siteTitle": "Elithair - Hair Transplant Clinic",
+  "header": {
+    "logo": "Elithair"
+  },
+  "hero": {
+    "title": "Regain Your Hair at the World's Largest Hair Transplant Clinic",
+    "bullet1": "Preferred by over 100,000 European patients",
+    "bullet2": "Painless Hair Transplant with Deep Sleep Method",
+    "ctaButton": "Get Price Quote"
+  },
+  "stats": {
+    "stat1": {
+      "title": "World's Largest",
+      "subtitle": "Hair Transplant Clinic"
+    },
+    "stat2": {
+      "title": "5,000+ Positive",
+      "subtitle": "Reviews"
+    },
+    "stat3": {
+      "title": "Painless Hair Transplant:",
+      "subtitle": "Deep Sleep Method"
+    },
+    "stat4": {
+      "title": "290 Expert",
+      "subtitle": "Hair Transplant Team"
+    }
+  },
+  "videoSection": {
+    "heading": "Discover",
+    "highlight": "Elithair",
+    "headingSuffix": "Quality",
+    "title": "Discover Elithair Quality",
+    "description": "Discover the hair transplant process and exclusive services at Elithair. Watch our video to experience the comfort and quality that awaits you.",
+    "ctaButton": "Get Price Quote"
+  },
+  "steps": {
+    "title": "Hair Transplant Steps with Elithair",
+    "step1": {
+      "title": "Photo Sharing",
+      "description": "Share photos of your hair from 3 different angles for us to analyze your hair condition."
+    },
+    "step2": {
+      "title": "Consultation with Experts",
+      "description": "Meet with our experts at a time convenient for you and get answers to all your questions."
+    },
+    "step3": {
+      "title": "Comfortable Transfer",
+      "description": "We provide safe and comfortable transfer service from the airport to our clinic."
+    },
+    "step4": {
+      "title": "Detailed Hair Analysis",
+      "description": "We analyze your hair structure and density in detail with the latest technologies."
+    },
+    "step5": {
+      "title": "Personalized Treatment",
+      "description": "Experience painless and effective hair transplant with a personalized treatment plan."
+    },
+    "step6": {
+      "title": "Follow-up with Elithair App",
+      "description": "Get continuous support at every step during and after treatment with the Elithair App."
+    },
+    "ctaButton": "Get Price Quote"
+  },
+  "results": {
+    "title": "Before and After Hair Transplant",
+    "description": "See the hair transplant results with Elithair with your own eyes.",
+    "ctaButton": "Get Price Quote",
+    "graftCount": "Grafts",
+    "details": {
+      "singleGraft": "Single Graft",
+      "multiGraft": "Multiple Graft",
+      "punch": "Punch",
+      "technique": "Technique",
+      "density": "Density",
+      "duration": "Treatment Duration"
+    }
+  },
+  "testimonials": {
+    "title": "Hair Transplant Experiences at Elithair",
+    "ctaButton": "Get Price Quote"
+  },
+  "package": {
+    "title": "Our All-Inclusive Hair Transplant Package",
+    "packageTitle": "DHI Hair Transplant Package",
+    "features": {
+      "consultation": "Consultation and Treatment Planning",
+      "pretest": "Pre-Operation Tests",
+      "dhi": "Hair Transplant with DHI Technique",
+      "certificate": "Hair Transplant Certificate",
+      "medications": "Required Medications",
+      "shampoo": "Shampoo and Lotion",
+      "hotel": "3 Nights Accommodation in Luxury Hotel",
+      "transfer": "Transportation (Airport-Hotel-Clinic)",
+      "translator": "Professional Translator"
+    },
+    "ctaButton": "Get Price Quote",
+    "whyTitle": "Why Only DHI Hair Transplant?",
+    "whyDescription": "DHI technique stands out with the latest technology and high success rate in hair transplantation. Reasons why we at Elithair prefer only DHI Hair Transplant:",
+    "benefit1": {
+      "title": "Direct Implantation:",
+      "description": "Hair follicles are implanted immediately after being taken from the donor area. This increases the survival rate of the follicles."
+    },
+    "benefit2": {
+      "title": "High Success Rate:",
+      "description": "DHI method offers a high success rate with immediate implantation of follicles. This provides permanent and satisfying results."
+    }
+  },
+  "reviews": {
+    "title": "Discover the Experiences of People Who Had Hair Treatment at Elit Clinic",
+    "ctaButton": "Get Price Quote"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "q1": "What are the advantages of the pre-test section at Elithair?",
+      "q2": "What are the advantages of Elithair's DHI technique?",
+      "q3": "What are the post-hair transplant support services at Elithair?",
+      "q4": "Can you provide information about Elithair's luxury hotel accommodation service?",
+      "q5": "How does the before and after process work for hair transplant at Elithair?"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "contactTitle": "Contact Information",
+    "address": {
+      "label": "Address",
+      "value": "Hamidiye, Cendere Cad. No: 103 – 1 T4 Blok, 34396 Kağıthane/Istanbul"
+    },
+    "email": {
+      "label": "Email",
+      "value": "info@elitklinik.com.tr"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+90 552 000 00 34"
+    }
+  },
+  "quiz": {
+    "title": "Your personal hair analysis!",
+    "contactTitle": "Please enter your contact information",
+    "steps": {
+      "gender": {
+        "question": "Please select your gender",
+        "female": "Female",
+        "male": "Male"
+      },
+      "hairLoss": {
+        "question": "How would you describe your hair loss?",
+        "receding": "Receding hairline",
+        "crownBald": "Crown balding",
+        "topThinning": "Top thinning",
+        "thinning": "Thinning hair",
+        "beard": "Beard"
+      },
+      "hairColor": {
+        "question": "What is your hair color?",
+        "blonde": "Blonde",
+        "brown": "Brown",
+        "grey": "Grey",
+        "red": "Red",
+        "black": "Black"
+      },
+      "duration": {
+        "question": "How long have you been experiencing hair loss?",
+        "lessThan1": "Less than 1 year",
+        "1to3": "1-3 years",
+        "3to5": "3-5 years",
+        "moreThan5": "More than 5 years"
+      },
+      "previousTransplant": {
+        "question": "Have you had a hair transplant before?",
+        "yes": "Yes",
+        "no": "No"
+      },
+      "timeline": {
+        "question": "When are you considering treatment?",
+        "asap": "As soon as possible",
+        "3months": "Within the next 3 months",
+        "12months": "Within the next 12 months",
+        "justInfo": "I just want information"
+      }
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "commercialConsent": "I agree to receive commercial electronic messages",
+      "privacyConsent": "By using this form, you accept the",
+      "privacyLink": "Privacy Policy",
+      "kvkkLink": "KVKK text",
+      "submit": "Continue"
+    }
+  }
+}

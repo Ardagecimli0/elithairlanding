@@ -1,0 +1,196 @@
+{
+  "siteTitle": "Elithair - Saç Ekimi Kliniği",
+  "header": {
+    "logo": "Elithair"
+  },
+  "hero": {
+    "title": "Dünya'nın En Büyük Saç Ekim Kliniğinde Saçlarınızı Geri Kazanın",
+    "bullet1": "100.000'den fazla Avrupalı hastanın tercihi Elithair",
+    "bullet2": "Deep Sleep Yöntemi ile Acısız Saç Ekimi",
+    "ctaButton": "Fiyat Teklifi Alın"
+  },
+  "stats": {
+    "stat1": {
+      "title": "Dünyanın En Büyük",
+      "subtitle": "Saç Ekim Kliniği"
+    },
+    "stat2": {
+      "title": "5.000+ Olumlu",
+      "subtitle": "Değerlendirme"
+    },
+    "stat3": {
+      "title": "Acısız Saç Ekimi:",
+      "subtitle": "Deep Sleep Yöntemi"
+    },
+    "stat4": {
+      "title": "290 Kişilik Uzman",
+      "subtitle": "Saç Ekim Kadrosu"
+    }
+  },
+  "videoSection": {
+    "heading": "Elithair",
+    "highlight": "Kalitesini",
+    "headingSuffix": "Keşfedin",
+    "title": "Elithair Kalitesini Keşfedin",
+    "description": "Elithair'de saç ekimi sürecini ve ayrıcalıklı hizmetlerimizi keşfedin. Sizi bekleyen konfor ve kaliteyi deneyimlemek için videomuzu izleyin.",
+    "ctaButton": "Fiyat Teklifi Alın"
+  },
+  "steps": {
+    "title": "Elithair ile Saç Ekimi Adımları",
+    "step1": {
+      "title": "Fotoğraf Paylaşımı",
+      "description": "Saç durumunuzun incelenmesi için saçınızın 3 farklı açılardan fotoğrafınızı bizimle paylaşın."
+    },
+    "step2": {
+      "title": "Uzmanlarımızla Görüşme",
+      "description": "Size uygun bir zaman diliminde uzmanlarımızla görüşün ve tüm sorularınızı yanıtlayın."
+    },
+    "step3": {
+      "title": "Konforlu Transfer",
+      "description": "Havaalanından kliniğimize güvenli ve konforlu bir transfer hizmeti sunuyoruz."
+    },
+    "step4": {
+      "title": "Detaylı Saç Analizi",
+      "description": "Saç yapınızı ve yoğunluğunuzu en yeni teknolojilerle detaylı olarak analiz ediyoruz."
+    },
+    "step5": {
+      "title": "Özelleştirilmiş Tedavi",
+      "description": "Kişiye özel tedavi planıyla ağrısız ve etkili saç ekimi deneyimi yaşayın."
+    },
+    "step6": {
+      "title": "Elithair App ile Takip",
+      "description": "Tedavi süresince ve sonrasında Elithair App ile her adımda kesintisiz destek alın."
+    },
+    "ctaButton": "Fiyat Teklifi Alın"
+  },
+  "results": {
+    "title": "Saç Ekimi Öncesi ve Sonrası",
+    "description": "Elithair ile saç ekimi sonuçlarını kendi gözlerinizle görün.",
+    "ctaButton": "Fiyat Teklifi Alın",
+    "graftCount": "Greft",
+    "details": {
+      "singleGraft": "Tekli Greft",
+      "multiGraft": "Çoklu Greft",
+      "punch": "Punch",
+      "technique": "Teknik",
+      "density": "Yoğunluk",
+      "duration": "Tedavi Süresi"
+    }
+  },
+  "testimonials": {
+    "title": "Elithair'de Saç Ekimi Deneyimleri",
+    "ctaButton": "Fiyat Teklifi Alın"
+  },
+  "package": {
+    "title": "Her Şey Dahil Saç Ekim Paketimiz",
+    "packageTitle": "DHI Saç Ekimi Paketi",
+    "features": {
+      "consultation": "Danışmanlık ve Tedavi Planlaması",
+      "pretest": "Ameliyat Öncesi Testler",
+      "dhi": "DHI Tekniği ile Saç Ekimi",
+      "certificate": "Saç Ekimi Sertifikası",
+      "medications": "Gerekli İlaçlar",
+      "shampoo": "Şampuan ve Losyon",
+      "hotel": "Lüks Bir Otelde 3 Gece Konaklama",
+      "transfer": "Ulaşım (Havaalanı-Otel-Klinik)",
+      "translator": "Profesyonel Tercüman"
+    },
+    "ctaButton": "Fiyat Teklifi Alın",
+    "whyTitle": "Neden Sadece DHI Saç Ekimi?",
+    "whyDescription": "DHI tekniği, saç ekiminde en son teknoloji ve yüksek başarı oranı ile öne çıkar. Elithair olarak sadece DHI Saç Ekimini tercih etmemizin nedenleri:",
+    "benefit1": {
+      "title": "Doğrudan Ekim:",
+      "description": "Saç kökleri donör bölgeden alındıktan sonra bekletilmeden ekilir. Bu, köklerin hayatta kalma oranını artırır."
+    },
+    "benefit2": {
+      "title": "Yüksek Başarı Oranı:",
+      "description": "DHI yöntemi, köklerin hemen ekilmesiyle yüksek başarı oranı sunar. Bu da kalıcı ve tatmin edici sonuçlar sağlar."
+    }
+  },
+  "reviews": {
+    "title": "Elit Klinik'te Saç Tedavisi Yaptıran Kişilerin Deneyimlerini Keşfedin",
+    "ctaButton": "Fiyat Teklifi Alın"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": {
+      "q1": "Elithair'deki pre-test bölümünün avantajları nelerdir?",
+      "q2": "Elithair'in DHI tekniği ile sunduğu avantajlar nelerdir?",
+      "q3": "Elithair'de saç ekimi sonrası destek hizmetleri nelerdir?",
+      "q4": "Elithair'in lüks otel konaklama hizmeti hakkında bilgi verir misiniz?",
+      "q5": "Elithair'de saç ekimi öncesi ve sonrası süreç nasıl ilerler?"
+    }
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "contactTitle": "İletişim Bilgileri",
+    "address": {
+      "label": "Adres",
+      "value": "Hamidiye, Cendere Cad. No: 103 – 1 T4 Blok, 34396 Kağıthane/İstanbul"
+    },
+    "email": {
+      "label": "E-posta",
+      "value": "info@elitklinik.com.tr"
+    },
+    "phone": {
+      "label": "Telefon",
+      "value": "+90 552 000 00 34"
+    }
+  },
+  "quiz": {
+    "title": "Kişisel saç analiziniz!",
+    "contactTitle": "Lütfen iletişim bilgilerinizi giriniz",
+    "steps": {
+      "gender": {
+        "question": "Lütfen cinsiyetinizi seçiniz",
+        "female": "Kadın",
+        "male": "Erkek"
+      },
+      "hairLoss": {
+        "question": "Saç dökülmenizi nasıl tarif edersiniz?",
+        "receding": "Saç çizgisinde gerileme",
+        "crownBald": "Tepede kelleşme",
+        "topThinning": "Baş üstünde açılma",
+        "thinning": "Seyrekleşen saç",
+        "beard": "Sakal"
+      },
+      "hairColor": {
+        "question": "Saç renginiz nedir?",
+        "blonde": "Sarışın",
+        "brown": "Kumral",
+        "grey": "Kır Saçlı",
+        "red": "Kırmızı",
+        "black": "Esmer"
+      },
+      "duration": {
+        "question": "Ne kadar süredir saç dökülmesinden şikayetçisiniz?",
+        "lessThan1": "1 yıldan az",
+        "1to3": "1-3 yıl",
+        "3to5": "3-5 yıl",
+        "moreThan5": "5 yıldan fazla"
+      },
+      "previousTransplant": {
+        "question": "Daha önce saç ekimi yaptırdınız mı?",
+        "yes": "Evet",
+        "no": "Hayır"
+      },
+      "timeline": {
+        "question": "Ne zaman tedavi olmayı düşünüyorsunuz?",
+        "asap": "En kısa sürede",
+        "3months": "Önümüzdeki 3 ay içinde",
+        "12months": "Önümüzdeki 12 ay içinde",
+        "justInfo": "Sadece bilgi almak istiyorum"
+      }
+    },
+    "form": {
+      "name": "Ad ve Soyad",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "commercialConsent": "Ticari elektronik ileti gönderilmesini kabul ediyorum",
+      "privacyConsent": "Bu formu kullanarak",
+      "privacyLink": "Gizlilik politikası",
+      "kvkkLink": "KVKK metnini",
+      "submit": "İlerle"
+    }
+  }
+}

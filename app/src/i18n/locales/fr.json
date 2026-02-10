@@ -1,0 +1,197 @@
+{
+    "siteTitle": "Elithair - Clinique de greffe de cheveux",
+    "header": {
+        "logo": "Elithair"
+    },
+    "hero": {
+        "title": "Retrouvez vos cheveux dans la plus grande clinique de greffe de cheveux au monde",
+        "bullet1": "Le choix de plus de 100 000 patients européens : Elithair",
+        "bullet2": "Greffe de cheveux indolore avec la méthode Deep Sleep",
+        "ctaButton": "Obtenir un devis"
+    },
+    "stats": {
+        "stat1": {
+            "title": "La plus grande au monde",
+            "subtitle": "Clinique de greffe de cheveux"
+        },
+        "stat2": {
+            "title": "5 000+ Avis",
+            "subtitle": "Positifs"
+        },
+        "stat3": {
+            "title": "Greffe indolore :",
+            "subtitle": "Méthode Deep Sleep"
+        },
+        "stat4": {
+            "title": "290 Experts",
+            "subtitle": "Équipe de greffe de cheveux"
+        }
+    },
+    "videoSection": {
+        "heading": "Découvrez la",
+        "highlight": "qualité",
+        "headingSuffix": "Elithair",
+        "title": "Découvrez la qualité Elithair",
+        "description": "Découvrez le processus de greffe de cheveux et nos services exclusifs chez Elithair. Regardez notre vidéo pour découvrir le confort et la qualité qui vous attendent.",
+        "ctaButton": "Obtenir un devis"
+    },
+    "steps": {
+        "title": "Étapes de la greffe de cheveux avec Elithair",
+        "step1": {
+            "title": "Partage de photos",
+            "description": "Partagez des photos de vos cheveux sous 3 angles différents pour que nous puissions analyser votre état capillaire."
+        },
+        "step2": {
+            "title": "Consultation avec des experts",
+            "description": "Rencontrez nos experts à un moment qui vous convient et obtenez des réponses à toutes vos questions."
+        },
+        "step3": {
+            "title": "Transfert confortable",
+            "description": "Nous offrons un service de transfert sûr et confortable de l'aéroport à notre clinique."
+        },
+        "step4": {
+            "title": "Analyse capillaire détaillée",
+            "description": "Nous analysons en détail votre structure et densité capillaire avec les dernières technologies."
+        },
+        "step5": {
+            "title": "Traitement personnalisé",
+            "description": "Vivez une greffe de cheveux indolore et efficace avec un plan de traitement personnalisé."
+        },
+        "step6": {
+            "title": "Suivi avec l'app Elithair",
+            "description": "Bénéficiez d'un soutien continu à chaque étape pendant et après le traitement avec l'application Elithair."
+        },
+        "ctaButton": "Obtenir un devis"
+    },
+    "results": {
+        "title": "Avant et après la greffe de cheveux",
+        "description": "Voyez les résultats de la greffe de cheveux avec Elithair de vos propres yeux.",
+        "ctaButton": "Obtenir un devis",
+        "graftCount": "Greffons",
+        "details": {
+            "singleGraft": "Greffon simple",
+            "multiGraft": "Greffon multiple",
+            "punch": "Punch",
+            "technique": "Technique",
+            "density": "Densité",
+            "duration": "Durée du traitement"
+        }
+    },
+    "testimonials": {
+        "title": "Expériences de greffe de cheveux chez Elithair",
+        "ctaButton": "Obtenir un devis"
+    },
+    "package": {
+        "title": "Notre forfait greffe de cheveux tout inclus",
+        "packageTitle": "Forfait greffe de cheveux DHI",
+        "features": {
+            "consultation": "Consultation et planification du traitement",
+            "pretest": "Tests préopératoires",
+            "dhi": "Greffe de cheveux avec technique DHI",
+            "certificate": "Certificat de greffe de cheveux",
+            "medications": "Médicaments nécessaires",
+            "shampoo": "Shampooing et lotion",
+            "hotel": "3 nuits en hôtel de luxe",
+            "transfer": "Transport (Aéroport-Hôtel-Clinique)",
+            "translator": "Traducteur professionnel"
+        },
+        "ctaButton": "Obtenir un devis",
+        "whyTitle": "Pourquoi uniquement la greffe DHI ?",
+        "whyDescription": "La technique DHI se distingue par sa technologie de pointe et son taux de réussite élevé. Raisons pour lesquelles nous préférons uniquement la greffe DHI chez Elithair :",
+        "benefit1": {
+            "title": "Implantation directe :",
+            "description": "Les follicules pileux sont implantés immédiatement après avoir été prélevés de la zone donneuse. Cela augmente le taux de survie des follicules."
+        },
+        "benefit2": {
+            "title": "Taux de réussite élevé :",
+            "description": "La méthode DHI offre un taux de réussite élevé grâce à l'implantation immédiate des follicules. Cela garantit des résultats durables et satisfaisants."
+        }
+    },
+    "reviews": {
+        "title": "Découvrez les expériences des personnes ayant reçu un traitement capillaire à la clinique Elit",
+        "ctaButton": "Obtenir un devis"
+    },
+    "faq": {
+        "title": "Questions fréquemment posées",
+        "questions": {
+            "q1": "Quels sont les avantages de l'examen préalable chez Elithair ?",
+            "q2": "Quels sont les avantages de la technique DHI d'Elithair ?",
+            "q3": "Quels sont les services de suivi après greffe chez Elithair ?",
+            "q4": "Pouvez-vous donner des informations sur l'hébergement en hôtel de luxe d'Elithair ?",
+            "q5": "Comment se déroule le processus avant et après la greffe chez Elithair ?"
+        }
+    },
+    "footer": {
+        "rights": "Tous droits réservés.",
+        "contactTitle": "Coordonnées",
+        "address": {
+            "label": "Adresse",
+            "value": "Hamidiye, Cendere Cad. No: 103 – 1 T4 Blok, 34396 Kağıthane/Istanbul"
+        },
+        "email": {
+            "label": "E-mail",
+            "value": "info@elitklinik.com.tr"
+        },
+        "phone": {
+            "label": "Téléphone",
+            "value": "+90 552 000 00 34"
+        }
+    },
+    "quiz": {
+        "title": "Votre analyse capillaire personnelle !",
+        "rights": "Tous droits réservés.",
+        "contactTitle": "Veuillez entrer vos coordonnées",
+        "steps": {
+            "gender": {
+                "question": "Veuillez sélectionner votre sexe",
+                "female": "Femme",
+                "male": "Homme"
+            },
+            "hairLoss": {
+                "question": "Comment décririez-vous votre perte de cheveux ?",
+                "receding": "Recul de la ligne frontale",
+                "crownBald": "Calvitie au sommet",
+                "topThinning": "Éclaircissement sur le dessus",
+                "thinning": "Cheveux clairsemés",
+                "beard": "Barbe"
+            },
+            "hairColor": {
+                "question": "Quelle est votre couleur de cheveux ?",
+                "blonde": "Blond",
+                "brown": "Châtain",
+                "grey": "Gris",
+                "red": "Roux",
+                "black": "Noir"
+            },
+            "duration": {
+                "question": "Depuis combien de temps souffrez-vous de perte de cheveux ?",
+                "lessThan1": "Moins d'1 an",
+                "1to3": "1-3 ans",
+                "3to5": "3-5 ans",
+                "moreThan5": "Plus de 5 ans"
+            },
+            "previousTransplant": {
+                "question": "Avez-vous déjà eu une greffe de cheveux ?",
+                "yes": "Oui",
+                "no": "Non"
+            },
+            "timeline": {
+                "question": "Quand envisagez-vous un traitement ?",
+                "asap": "Dès que possible",
+                "3months": "Dans les 3 prochains mois",
+                "12months": "Dans les 12 prochains mois",
+                "justInfo": "Je souhaite juste des informations"
+            }
+        },
+        "form": {
+            "name": "Nom et prénom",
+            "email": "E-mail",
+            "phone": "Téléphone",
+            "commercialConsent": "J'accepte de recevoir des messages électroniques commerciaux",
+            "privacyConsent": "En utilisant ce formulaire, vous acceptez la",
+            "privacyLink": "politique de confidentialité",
+            "kvkkLink": "texte KVKK",
+            "submit": "Continuer"
+        }
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "siteTitle": "Elithair - Clinica di trapianto di capelli",
+    "header": {
+        "logo": "Elithair"
+    },
+    "hero": {
+        "title": "Riacquista i tuoi capelli nella più grande clinica di trapianto di capelli al mondo",
+        "bullet1": "La scelta di oltre 100.000 pazienti europei: Elithair",
+        "bullet2": "Trapianto di capelli indolore con il metodo Deep Sleep",
+        "ctaButton": "Richiedi un preventivo"
+    },
+    "stats": {
+        "stat1": {
+            "title": "La più grande al mondo",
+            "subtitle": "Clinica di trapianto di capelli"
+        },
+        "stat2": {
+            "title": "5.000+ Recensioni",
+            "subtitle": "Positive"
+        },
+        "stat3": {
+            "title": "Trapianto indolore:",
+            "subtitle": "Metodo Deep Sleep"
+        },
+        "stat4": {
+            "title": "290 Esperti",
+            "subtitle": "Team di trapianto"
+        }
+    },
+    "videoSection": {
+        "heading": "Scopri la",
+        "highlight": "qualità",
+        "headingSuffix": "Elithair",
+        "title": "Scopri la qualità Elithair",
+        "description": "Scopri il processo di trapianto di capelli e i nostri servizi esclusivi presso Elithair. Guarda il nostro video per vivere il comfort e la qualità che ti aspettano.",
+        "ctaButton": "Richiedi un preventivo"
+    },
+    "steps": {
+        "title": "Passaggi del trapianto di capelli con Elithair",
+        "step1": {
+            "title": "Condivisione foto",
+            "description": "Condividi foto dei tuoi capelli da 3 angolazioni diverse per analizzare la tua condizione capillare."
+        },
+        "step2": {
+            "title": "Consulto con esperti",
+            "description": "Incontra i nostri esperti in un momento a te comodo e ottieni risposte a tutte le tue domande."
+        },
+        "step3": {
+            "title": "Trasferimento confortevole",
+            "description": "Offriamo un servizio di trasferimento sicuro e confortevole dall'aeroporto alla nostra clinica."
+        },
+        "step4": {
+            "title": "Analisi capillare dettagliata",
+            "description": "Analizziamo in dettaglio la struttura e la densità dei tuoi capelli con le ultime tecnologie."
+        },
+        "step5": {
+            "title": "Trattamento personalizzato",
+            "description": "Vivi un trapianto di capelli indolore ed efficace con un piano di trattamento personalizzato."
+        },
+        "step6": {
+            "title": "Monitoraggio con l'app Elithair",
+            "description": "Ricevi supporto continuo durante e dopo il trattamento con l'app Elithair."
+        },
+        "ctaButton": "Richiedi un preventivo"
+    },
+    "results": {
+        "title": "Prima e dopo il trapianto di capelli",
+        "description": "Guarda i risultati del trapianto di capelli con Elithair con i tuoi occhi.",
+        "ctaButton": "Richiedi un preventivo",
+        "graftCount": "Innesti",
+        "details": {
+            "singleGraft": "Innesto singolo",
+            "multiGraft": "Innesto multiplo",
+            "punch": "Punch",
+            "technique": "Tecnica",
+            "density": "Densità",
+            "duration": "Durata del trattamento"
+        }
+    },
+    "testimonials": {
+        "title": "Esperienze di trapianto di capelli presso Elithair",
+        "ctaButton": "Richiedi un preventivo"
+    },
+    "package": {
+        "title": "Il nostro pacchetto trapianto di capelli tutto incluso",
+        "packageTitle": "Pacchetto trapianto DHI",
+        "features": {
+            "consultation": "Consulto e pianificazione del trattamento",
+            "pretest": "Test preoperatori",
+            "dhi": "Trapianto di capelli con tecnica DHI",
+            "certificate": "Certificato di trapianto",
+            "medications": "Farmaci necessari",
+            "shampoo": "Shampoo e lozione",
+            "hotel": "3 notti in hotel di lusso",
+            "transfer": "Trasporto (Aeroporto-Hotel-Clinica)",
+            "translator": "Traduttore professionale"
+        },
+        "ctaButton": "Richiedi un preventivo",
+        "whyTitle": "Perché solo il trapianto DHI?",
+        "whyDescription": "La tecnica DHI si distingue per la tecnologia all'avanguardia e l'alto tasso di successo. Motivi per cui noi di Elithair preferiamo solo il trapianto DHI:",
+        "benefit1": {
+            "title": "Impianto diretto:",
+            "description": "I follicoli piliferi vengono impiantati immediatamente dopo essere stati prelevati dall'area donatrice. Questo aumenta il tasso di sopravvivenza dei follicoli."
+        },
+        "benefit2": {
+            "title": "Alto tasso di successo:",
+            "description": "Il metodo DHI offre un alto tasso di successo grazie all'impianto immediato dei follicoli. Questo garantisce risultati duraturi e soddisfacenti."
+        }
+    },
+    "reviews": {
+        "title": "Scopri le esperienze di chi ha ricevuto un trattamento capillare presso la Clinica Elit",
+        "ctaButton": "Richiedi un preventivo"
+    },
+    "faq": {
+        "title": "Domande frequenti",
+        "questions": {
+            "q1": "Quali sono i vantaggi dell'esame preliminare presso Elithair?",
+            "q2": "Quali sono i vantaggi della tecnica DHI di Elithair?",
+            "q3": "Quali sono i servizi post-trapianto di Elithair?",
+            "q4": "Potete fornire informazioni sul servizio di alloggio in hotel di lusso di Elithair?",
+            "q5": "Come funziona il processo prima e dopo il trapianto presso Elithair?"
+        }
+    },
+    "footer": {
+        "rights": "Tutti i diritti riservati.",
+        "contactTitle": "Informazioni di contatto",
+        "address": {
+            "label": "Indirizzo",
+            "value": "Hamidiye, Cendere Cad. No: 103 – 1 T4 Blok, 34396 Kağıthane/Istanbul"
+        },
+        "email": {
+            "label": "E-mail",
+            "value": "info@elitklinik.com.tr"
+        },
+        "phone": {
+            "label": "Telefono",
+            "value": "+90 552 000 00 34"
+        }
+    },
+    "quiz": {
+        "title": "La tua analisi capillare personale!",
+        "rights": "Tutti i diritti riservati.",
+        "contactTitle": "Inserisci i tuoi dati di contatto",
+        "steps": {
+            "gender": {
+                "question": "Seleziona il tuo sesso",
+                "female": "Donna",
+                "male": "Uomo"
+            },
+            "hairLoss": {
+                "question": "Come descriveresti la tua caduta dei capelli?",
+                "receding": "Attaccatura arretrata",
+                "crownBald": "Calvizie alla corona",
+                "topThinning": "Diradamento sulla sommità",
+                "thinning": "Capelli radi",
+                "beard": "Barba"
+            },
+            "hairColor": {
+                "question": "Qual è il colore dei tuoi capelli?",
+                "blonde": "Biondo",
+                "brown": "Castano",
+                "grey": "Grigio",
+                "red": "Rosso",
+                "black": "Nero"
+            },
+            "duration": {
+                "question": "Da quanto tempo soffri di caduta dei capelli?",
+                "lessThan1": "Meno di 1 anno",
+                "1to3": "1-3 anni",
+                "3to5": "3-5 anni",
+                "moreThan5": "Più di 5 anni"
+            },
+            "previousTransplant": {
+                "question": "Hai già effettuato un trapianto di capelli?",
+                "yes": "Sì",
+                "no": "No"
+            },
+            "timeline": {
+                "question": "Quando prevedi di fare un trattamento?",
+                "asap": "Il prima possibile",
+                "3months": "Nei prossimi 3 mesi",
+                "12months": "Nei prossimi 12 mesi",
+                "justInfo": "Voglio solo informazioni"
+            }
+        },
+        "form": {
+            "name": "Nome e cognome",
+            "email": "E-mail",
+            "phone": "Telefono",
+            "commercialConsent": "Acconsento a ricevere comunicazioni commerciali elettroniche",
+            "privacyConsent": "Utilizzando questo modulo accetti la",
+            "privacyLink": "politica sulla privacy",
+            "kvkkLink": "testo KVKK",
+            "submit": "Continua"
+        }
+    }
+}

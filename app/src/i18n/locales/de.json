@@ -1,0 +1,197 @@
+{
+    "siteTitle": "Elithair - Haartransplantationsklinik",
+    "header": {
+        "logo": "Elithair"
+    },
+    "hero": {
+        "title": "Gewinnen Sie Ihre Haare in der größten Haartransplantationsklinik der Welt zurück",
+        "bullet1": "Die Wahl von über 100.000 europäischen Patienten: Elithair",
+        "bullet2": "Schmerzlose Haartransplantation mit der Deep Sleep Methode",
+        "ctaButton": "Preisangebot erhalten"
+    },
+    "stats": {
+        "stat1": {
+            "title": "Die größte der Welt",
+            "subtitle": "Haartransplantationsklinik"
+        },
+        "stat2": {
+            "title": "5.000+ Positive",
+            "subtitle": "Bewertungen"
+        },
+        "stat3": {
+            "title": "Schmerzlose Haartransplantation:",
+            "subtitle": "Deep Sleep Methode"
+        },
+        "stat4": {
+            "title": "290 Experten",
+            "subtitle": "Haartransplantationsteam"
+        }
+    },
+    "videoSection": {
+        "heading": "Entdecken Sie die",
+        "highlight": "Elithair",
+        "headingSuffix": "Qualität",
+        "title": "Entdecken Sie die Elithair-Qualität",
+        "description": "Entdecken Sie den Haartransplantationsprozess und unsere exklusiven Dienstleistungen bei Elithair. Sehen Sie unser Video, um den Komfort und die Qualität zu erleben.",
+        "ctaButton": "Preisangebot erhalten"
+    },
+    "steps": {
+        "title": "Haartransplantationsschritte mit Elithair",
+        "step1": {
+            "title": "Fotos teilen",
+            "description": "Teilen Sie Fotos Ihrer Haare aus 3 verschiedenen Winkeln, damit wir Ihren Haarzustand analysieren können."
+        },
+        "step2": {
+            "title": "Beratung mit Experten",
+            "description": "Treffen Sie sich mit unseren Experten zu einem für Sie passenden Zeitpunkt und lassen Sie alle Ihre Fragen beantworten."
+        },
+        "step3": {
+            "title": "Komfortabler Transfer",
+            "description": "Wir bieten einen sicheren und komfortablen Transferservice vom Flughafen zu unserer Klinik."
+        },
+        "step4": {
+            "title": "Detaillierte Haaranalyse",
+            "description": "Wir analysieren Ihre Haarstruktur und -dichte detailliert mit den neuesten Technologien."
+        },
+        "step5": {
+            "title": "Individualisierte Behandlung",
+            "description": "Erleben Sie eine schmerzlose und effektive Haartransplantation mit einem personalisierten Behandlungsplan."
+        },
+        "step6": {
+            "title": "Nachsorge mit der Elithair App",
+            "description": "Erhalten Sie während und nach der Behandlung kontinuierliche Unterstützung mit der Elithair App."
+        },
+        "ctaButton": "Preisangebot erhalten"
+    },
+    "results": {
+        "title": "Vorher und Nachher der Haartransplantation",
+        "description": "Sehen Sie die Ergebnisse der Haartransplantation mit Elithair mit eigenen Augen.",
+        "ctaButton": "Preisangebot erhalten",
+        "graftCount": "Grafts",
+        "details": {
+            "singleGraft": "Einzel-Graft",
+            "multiGraft": "Mehrfach-Graft",
+            "punch": "Punch",
+            "technique": "Technik",
+            "density": "Dichte",
+            "duration": "Behandlungsdauer"
+        }
+    },
+    "testimonials": {
+        "title": "Haartransplantationserfahrungen bei Elithair",
+        "ctaButton": "Preisangebot erhalten"
+    },
+    "package": {
+        "title": "Unser All-Inclusive Haartransplantationspaket",
+        "packageTitle": "DHI Haartransplantationspaket",
+        "features": {
+            "consultation": "Beratung und Behandlungsplanung",
+            "pretest": "Voruntersuchungen",
+            "dhi": "Haartransplantation mit DHI-Technik",
+            "certificate": "Haartransplantationszertifikat",
+            "medications": "Erforderliche Medikamente",
+            "shampoo": "Shampoo und Lotion",
+            "hotel": "3 Nächte Unterkunft im Luxushotel",
+            "transfer": "Transport (Flughafen-Hotel-Klinik)",
+            "translator": "Professioneller Übersetzer"
+        },
+        "ctaButton": "Preisangebot erhalten",
+        "whyTitle": "Warum nur DHI Haartransplantation?",
+        "whyDescription": "Die DHI-Technik zeichnet sich durch neueste Technologie und hohe Erfolgsraten bei der Haartransplantation aus. Gründe, warum wir bei Elithair nur die DHI Haartransplantation bevorzugen:",
+        "benefit1": {
+            "title": "Direkte Implantation:",
+            "description": "Haarfollikel werden sofort nach der Entnahme aus dem Spenderbereich implantiert. Dies erhöht die Überlebensrate der Follikel."
+        },
+        "benefit2": {
+            "title": "Hohe Erfolgsrate:",
+            "description": "Die DHI-Methode bietet eine hohe Erfolgsrate durch sofortige Implantation der Follikel. Dies sorgt für dauerhafte und zufriedenstellende Ergebnisse."
+        }
+    },
+    "reviews": {
+        "title": "Entdecken Sie die Erfahrungen von Personen, die eine Haarbehandlung in der Elit Klinik erhalten haben",
+        "ctaButton": "Preisangebot erhalten"
+    },
+    "faq": {
+        "title": "Häufig gestellte Fragen",
+        "questions": {
+            "q1": "Welche Vorteile bietet die Voruntersuchung bei Elithair?",
+            "q2": "Welche Vorteile bietet die DHI-Technik von Elithair?",
+            "q3": "Welche Nachsorgeleistungen bietet Elithair?",
+            "q4": "Können Sie Informationen über den Luxushotel-Unterkunftsservice von Elithair geben?",
+            "q5": "Wie verläuft der Prozess vor und nach der Haartransplantation bei Elithair?"
+        }
+    },
+    "footer": {
+        "rights": "Alle Rechte vorbehalten.",
+        "contactTitle": "Kontaktinformationen",
+        "address": {
+            "label": "Adresse",
+            "value": "Hamidiye, Cendere Cad. No: 103 – 1 T4 Blok, 34396 Kağıthane/Istanbul"
+        },
+        "email": {
+            "label": "E-Mail",
+            "value": "info@elitklinik.com.tr"
+        },
+        "phone": {
+            "label": "Telefon",
+            "value": "+90 552 000 00 34"
+        }
+    },
+    "quiz": {
+        "title": "Ihre persönliche Haaranalyse!",
+        "rights": "Alle Rechte vorbehalten.",
+        "contactTitle": "Bitte geben Sie Ihre Kontaktdaten ein",
+        "steps": {
+            "gender": {
+                "question": "Bitte wählen Sie Ihr Geschlecht",
+                "female": "Weiblich",
+                "male": "Männlich"
+            },
+            "hairLoss": {
+                "question": "Wie würden Sie Ihren Haarausfall beschreiben?",
+                "receding": "Zurückweichender Haaransatz",
+                "crownBald": "Kahlheit am Scheitel",
+                "topThinning": "Ausdünnung am Oberkopf",
+                "thinning": "Dünner werdendes Haar",
+                "beard": "Bart"
+            },
+            "hairColor": {
+                "question": "Welche Haarfarbe haben Sie?",
+                "blonde": "Blond",
+                "brown": "Braun",
+                "grey": "Grau",
+                "red": "Rot",
+                "black": "Schwarz"
+            },
+            "duration": {
+                "question": "Wie lange leiden Sie bereits unter Haarausfall?",
+                "lessThan1": "Weniger als 1 Jahr",
+                "1to3": "1-3 Jahre",
+                "3to5": "3-5 Jahre",
+                "moreThan5": "Mehr als 5 Jahre"
+            },
+            "previousTransplant": {
+                "question": "Hatten Sie bereits eine Haartransplantation?",
+                "yes": "Ja",
+                "no": "Nein"
+            },
+            "timeline": {
+                "question": "Wann planen Sie eine Behandlung?",
+                "asap": "So bald wie möglich",
+                "3months": "Innerhalb der nächsten 3 Monate",
+                "12months": "Innerhalb der nächsten 12 Monate",
+                "justInfo": "Ich möchte nur Informationen"
+            }
+        },
+        "form": {
+            "name": "Vor- und Nachname",
+            "email": "E-Mail",
+            "phone": "Telefon",
+            "commercialConsent": "Ich stimme dem Empfang kommerzieller elektronischer Nachrichten zu",
+            "privacyConsent": "Mit diesem Formular akzeptieren Sie die",
+            "privacyLink": "Datenschutzrichtlinie",
+            "kvkkLink": "KVKK-Text",
+            "submit": "Weiter"
+        }
+    }
+}
