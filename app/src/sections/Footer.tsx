@@ -1,5 +1,6 @@
 import { useTranslation } from '../i18n';
 import { MapPin, Mail, Phone } from 'lucide-react';
+import ElithairLogo from '../assets/images/ElitHairLogo.png';
 
 const Footer = () => {
   const { t } = useTranslation();
@@ -43,7 +44,7 @@ const Footer = () => {
             {/* Logo */}
             <div className="mt-10 flex items-center gap-2">
               <img
-                src="/src/assets/images/ElitHairLogo.png"
+                src={ElithairLogo}
                 alt="Elithair"
                 className="h-16 object-contain brightness-0 invert"
               />

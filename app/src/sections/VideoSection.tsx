@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { useTranslation } from '../i18n';
 import { Play, X } from 'lucide-react';
+import InstagramPost from '../assets/images/Instagram-post-1073-1-e1720776015653.webp';
+import ElitHairQualityVideo from '../assets/ElitHairQuality.mp4';
 
 const VideoSection = ({ onCtaClick }: { onCtaClick?: () => void }) => {
   const { t } = useTranslation();
@@ -22,7 +24,7 @@ const VideoSection = ({ onCtaClick }: { onCtaClick?: () => void }) => {
         {/* Video Thumbnail */}
         <div className="relative max-w-4xl mx-auto rounded-xl overflow-hidden shadow-2xl">
           <img
-            src="/src/assets/images/Instagram-post-1073-1-e1720776015653.webp"
+            src={InstagramPost}
             alt="Elithair Clinic"
             className="w-full aspect-video object-cover"
           />
@@ -66,7 +68,7 @@ const VideoSection = ({ onCtaClick }: { onCtaClick?: () => void }) => {
               autoPlay
               className="w-full h-full rounded-lg"
             >
-              <source src="/src/assets/ElitHairQuality.mp4" type="video/mp4" />
+              <source src={ElitHairQualityVideo} type="video/mp4" />
             </video>
           </div>
         </div>

@@ -1,6 +1,11 @@
 import { useState } from 'react';
 import { useTranslation } from '../i18n';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
+import BeforeAfter1 from '../assets/images/before-after1.jpg';
+import BeforeAfter2 from '../assets/images/before-after2.jpg';
+import BeforeAfter3 from '../assets/images/before-after3.jpg';
+import Okan1 from '../assets/images/okan-1.jpg';
+import Sevket1 from '../assets/images/sefket-1.jpg';
 
 interface Result {
   id: number;
@@ -26,7 +31,7 @@ const ResultsCarousel = ({ onCtaClick }: { onCtaClick?: () => void }) => {
       id: 1,
       name: 'Çağatay T.',
       grafts: 4000,
-      image: '/src/assets/images/before-after1.jpg',
+      image: BeforeAfter1,
       details: {
         singleGraft: 2600,
         multiGraft: 1400,
@@ -40,7 +45,7 @@ const ResultsCarousel = ({ onCtaClick }: { onCtaClick?: () => void }) => {
       id: 2,
       name: 'Rafet El Roman',
       grafts: 2600,
-      image: '/src/assets/images/before-after2.jpg',
+      image: BeforeAfter2,
       details: {
         singleGraft: 1450,
         multiGraft: 1150,
@@ -54,7 +59,7 @@ const ResultsCarousel = ({ onCtaClick }: { onCtaClick?: () => void }) => {
       id: 3,
       name: 'Kerim Engizek',
       grafts: 4000,
-      image: '/src/assets/images/before-after3.jpg',
+      image: BeforeAfter3,
       details: {
         singleGraft: 1260,
         multiGraft: 2740,
@@ -68,7 +73,7 @@ const ResultsCarousel = ({ onCtaClick }: { onCtaClick?: () => void }) => {
       id: 4,
       name: 'Okan Y.',
       grafts: 4700,
-      image: '/src/assets/images/okan-1.jpg',
+      image: Okan1,
       details: {
         singleGraft: 2100,
         multiGraft: 2600,
@@ -82,7 +87,7 @@ const ResultsCarousel = ({ onCtaClick }: { onCtaClick?: () => void }) => {
       id: 5,
       name: 'Şevket A.',
       grafts: 4500,
-      image: '/src/assets/images/sefket-1.jpg',
+      image: Sevket1,
       details: {
         singleGraft: 1700,
         multiGraft: 2800,

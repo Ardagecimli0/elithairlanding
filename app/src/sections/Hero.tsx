@@ -1,5 +1,13 @@
 import { useTranslation } from '../i18n';
 import { Check, Building2, Star, Users, Scissors } from 'lucide-react';
+import ElithairLogoPrimary from '../assets/images/Elithair-Logo-Primary.svg';
+import GoogleReviews from '../assets/images/Google-Reviews-Elithair.svg';
+import HeroClinic from '../assets/images/hero-clinic.jpg';
+import HeroVideo from '../assets/Hero.mp4';
+import MetroLogo from '../assets/images/metro.svg';
+import ExpressLogo from '../assets/images/Express.svg';
+import TheSunLogo from '../assets/images/the-sun.svg';
+import TheMailLogo from '../assets/images/the-mail.svg';
 
 const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
   const { t } = useTranslation();
@@ -34,7 +42,7 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
         {/* Logo artık solda */}
         <div className="flex items-center gap-2 ml-2 sm:ml-4">
           <img
-            src="/src/assets/images/Elithair-Logo-Primary.svg"
+            src={ElithairLogoPrimary}
             alt="Elithair"
             className="h-7 md:h-9 object-contain"
           />
@@ -42,7 +50,7 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
 
         {/* Google Reviews alanı */}
         <img
-          src="/src/assets/images/Google-Reviews-Elithair.svg"
+          src={GoogleReviews}
           alt="Google Reviews Elithair 4.96"
           className="h-16 md:h-20 object-contain relative z-30 translate-y-3 md:translate-y-5"
         />
@@ -57,9 +65,9 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
             loop
             playsInline
             className="absolute w-full h-full object-cover"
-            poster="/src/assets/images/hero-clinic.jpg"
+            poster={HeroClinic}
           >
-            <source src="/src/assets/Hero.mp4" type="video/mp4" />
+            <source src={HeroVideo} type="video/mp4" />
           </video>
           <div className="absolute inset-0 bg-gradient-to-b from-navy/40 via-navy/20 to-navy/60" />
 
@@ -89,10 +97,10 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
 
                 {/* Media Logos */}
                 <div className="flex items-center justify-center gap-3 flex-wrap">
-                  <img src="/src/assets/images/metro.svg" alt="Metro" className="h-4 object-contain" />
-                  <img src="/src/assets/images/Express.svg" alt="Express" className="h-4 object-contain" />
-                  <img src="/src/assets/images/the-sun.svg" alt="The Sun" className="h-4 object-contain" />
-                  <img src="/src/assets/images/the-mail.svg" alt="Daily Mail" className="h-4 object-contain" />
+                  <img src={MetroLogo} alt="Metro" className="h-4 object-contain" />
+                  <img src={ExpressLogo} alt="Express" className="h-4 object-contain" />
+                  <img src={TheSunLogo} alt="The Sun" className="h-4 object-contain" />
+                  <img src={TheMailLogo} alt="Daily Mail" className="h-4 object-contain" />
                 </div>
               </div>
             </div>
@@ -126,10 +134,10 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
 
                 {/* Media Logos */}
                 <div className="flex items-center justify-center gap-3 flex-wrap">
-                  <img src="/src/assets/images/metro.svg" alt="Metro" className="h-4 object-contain" />
-                  <img src="/src/assets/images/Express.svg" alt="Express" className="h-4 object-contain" />
-                  <img src="/src/assets/images/the-sun.svg" alt="The Sun" className="h-4 object-contain" />
-                  <img src="/src/assets/images/the-mail.svg" alt="Daily Mail" className="h-4 object-contain" />
+                  <img src={MetroLogo} alt="Metro" className="h-4 object-contain" />
+                  <img src={ExpressLogo} alt="Express" className="h-4 object-contain" />
+                  <img src={TheSunLogo} alt="The Sun" className="h-4 object-contain" />
+                  <img src={TheMailLogo} alt="Daily Mail" className="h-4 object-contain" />
                 </div>
               </div>
             </div>
