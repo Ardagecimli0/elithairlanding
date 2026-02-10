@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { ChevronLeft } from 'lucide-react';
 import { useTranslation } from '../i18n';
 import ElithairLogoPrimary from '../assets/images/Elithair-Logo-Primary.svg';
@@ -224,6 +224,19 @@ const HairAnalysis = ({ onBack, lang }: HairAnalysisProps) => {
         const url = `https://info-elitklinik.zohobookings.eu/#/htconsultation?Name=${name}&Contact%20Number=${phone}&Email=${email}`;
         window.open(url, '_blank');
     };
+
+    // Auto-detect country code
+    useEffect(() => {
+        fetch('https://ipapi.co/json/')
+            .then(res => res.json())
+            .then(data => {
+                const countryCode = data.country_calling_code; // e.g. "+90"
+                if (countryCode && PHONE_RULES[countryCode]) {
+                    setForm(prev => ({ ...prev, countryCode }));
+                }
+            })
+            .catch(err => console.error('Failed to detect country:', err));
+    }, []);
 
     return (
         <div className="min-h-screen bg-[#f0e6dc] flex flex-col">
