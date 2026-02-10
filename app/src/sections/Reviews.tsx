@@ -1,6 +1,12 @@
-import { useState } from 'react';
-import { useTranslation } from '../i18n';
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react';
+import { useTranslation } from '../i18n';
+import IbrahimImage from '../assets/images/ibrahim.png';
+import TolgaImage from '../assets/images/tolga.png';
+import MustafaImage from '../assets/images/mustafa-1.png';
+import AlexanderImage from '../assets/images/alexander-1.png';
+import MorganImage from '../assets/images/morgan-1.png';
+import QutaibaImage from '../assets/images/qutaiba-1.png';
+import DaltonImage from '../assets/images/dalton.png';
 
 interface Review {
   id: number;
@@ -18,84 +24,84 @@ const Reviews = ({ onCtaClick }: { onCtaClick?: () => void }) => {
     {
       id: 1,
       name: 'İbrahim Alnuaimi',
-      avatar: '/src/assets/images/ibrahim.png',
+      avatar: IbrahimImage,
       rating: 5,
       text: 'Harika bir hastane, personeli son derece deneyimli, iyi bir deneyim. Herkesin bu hastaneyi ziyaret etmesini ve saç ekimini yaptırmasını tavsiye ediyorum.',
     },
     {
       id: 2,
       name: 'Tolga Yıldız',
-      avatar: '/src/assets/images/tolga.png',
+      avatar: TolgaImage,
       rating: 5,
       text: 'Sorumlu ve kaliteli bir saç ekim kliniği ararken Elithair ile karşılaştım. Genel hizmet, konaklama ve personel mükemmel şekilde koordine edilmiştir ve tüm sorularınıza ihtiyacınız olan yanıtları alırsınız. Öneririm.',
     },
     {
       id: 3,
       name: 'Mustafa Kattan',
-      avatar: '/src/assets/images/mustafa-1.png',
+      avatar: MustafaImage,
       rating: 5,
       text: 'Açıkçası harika bir deneyim ve hepsi seçkin sağlık personeli sayesinde. Saç ekimi dünyasında uzmanlaşmış tam ve entegre bir hastanedir. Teşekkürler Elithair',
     },
     {
       id: 4,
       name: 'Alexander Müller',
-      avatar: '/src/assets/images/alexander-1.png',
+      avatar: AlexanderImage,
       rating: 5,
       text: 'Almanya\'dan geldim ve hizmet kalitesi beklentilerimin çok üzerindeydi. Klinik son derece modern ve personel çok ilgili. Kesinlikle tavsiye ediyorum.',
     },
     {
       id: 5,
       name: 'Morgan',
-      avatar: '/src/assets/images/morgan-1.png',
+      avatar: MorganImage,
       rating: 5,
       text: 'Saç ekimi için en doğru adres burası. Operasyon öncesi ve sonrası süreç çok profesyonelce yönetildi. Sonuçlardan son derece memnunum.',
     },
     {
       id: 6,
       name: 'Qutaiba',
-      avatar: '/src/assets/images/qutaiba-1.png',
+      avatar: QutaibaImage,
       rating: 5,
       text: 'DHI tekniği ile yapılan saç ekimim mükemmel sonuçlar verdi. 6 ay sonra saçlarım tamamen doğal görünüyor. Elithair ekibine teşekkür ederim.',
     },
     {
       id: 7,
       name: 'Dalton',
-      avatar: '/src/assets/images/dalton.png',
+      avatar: DaltonImage,
       rating: 5,
       text: 'Havaalanından otele, otelden kliniğe tüm transferler kusursuzdu. Operasyon ağrısız geçti ve sonuçlar inanılmaz. 5 yıldızlı bir deneyim.',
     },
     {
       id: 8,
       name: 'David Schmidt',
-      avatar: '/src/assets/images/alexander-1.png',
+      avatar: AlexanderImage,
       rating: 5,
       text: 'Profesyonel ekip, lüks konaklama ve mükemmel sonuçlar. Elithair\'ı arkadaşlarıma da öneriyorum. Saç ekimi düşünenler için en iyi tercih.',
     },
     {
       id: 9,
       name: 'Karim',
-      avatar: '/src/assets/images/mustafa-1.png',
+      avatar: MustafaImage,
       rating: 5,
       text: 'Elithair App sayesinde tedavi sürecimi adım adım takip edebildim. Doktorlar ve hemşireler çok ilgiliydi. Sonuçlardan çok memnunum.',
     },
     {
       id: 10,
       name: 'Hasan Kaplan',
-      avatar: '/src/assets/images/ibrahim.png',
+      avatar: IbrahimImage,
       rating: 5,
       text: 'Deep Sleep yöntemi sayesinde operasyon sırasında hiçbir ağrı hissetmedim. Uyandığımda her şey bitmişti. Kesinlikle tavsiye ederim.',
     },
     {
       id: 11,
       name: 'Pierre Dupont',
-      avatar: '/src/assets/images/morgan-1.png',
+      avatar: MorganImage,
       rating: 5,
       text: 'Fransa\'dan gelip Elithair\'da saç ekimi yaptırdım. Tercüman desteği, otel ve klinik hizmeti her şey harika. Sonuçlar da muhteşem oldu.',
     },
     {
       id: 12,
       name: 'Serkan Aydın',
-      avatar: '/src/assets/images/tolga.png',
+      avatar: TolgaImage,
       rating: 5,
       text: 'Daha önce başka bir klinikte saç ekimi yaptırmıştım ama sonuçlar tatmin edici değildi. Elithair ile farkı gördüm, gerçek profesyonellik burada.',
     },

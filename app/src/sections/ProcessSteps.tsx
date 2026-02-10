@@ -1,36 +1,42 @@
 import { useTranslation } from '../i18n';
+import Step1Photo from '../assets/images/step1-photo.jpg';
+import Step2Consultation from '../assets/images/step2-consultation.jpg';
+import Step3Transfer from '../assets/images/step3-transfer.jpg';
+import Step4Analysis from '../assets/images/step4-analysis.jpg';
+import Step5Treatment from '../assets/images/step5-treatment.jpg';
+import Step6App from '../assets/images/step6-app.jpg';
 
 const ProcessSteps = ({ onCtaClick }: { onCtaClick?: () => void }) => {
   const { t } = useTranslation();
 
   const steps = [
     {
-      image: '/src/assets/images/step1-photo.jpg',
+      image: Step1Photo,
       title: t('steps.step1.title'),
       description: t('steps.step1.description'),
     },
     {
-      image: '/src/assets/images/step2-consultation.jpg',
+      image: Step2Consultation,
       title: t('steps.step2.title'),
       description: t('steps.step2.description'),
     },
     {
-      image: '/src/assets/images/step3-transfer.jpg',
+      image: Step3Transfer,
       title: t('steps.step3.title'),
       description: t('steps.step3.description'),
     },
     {
-      image: '/src/assets/images/step4-analysis.jpg',
+      image: Step4Analysis,
       title: t('steps.step4.title'),
       description: t('steps.step4.description'),
     },
     {
-      image: '/src/assets/images/step5-treatment.jpg',
+      image: Step5Treatment,
       title: t('steps.step5.title'),
       description: t('steps.step5.description'),
     },
     {
-      image: '/src/assets/images/step6-app.jpg',
+      image: Step6App,
       title: t('steps.step6.title'),
       description: t('steps.step6.description'),
     },

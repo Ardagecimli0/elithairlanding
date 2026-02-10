@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { ChevronLeft } from 'lucide-react';
 import { useTranslation } from '../i18n';
+import ElithairLogoPrimary from '../assets/images/Elithair-Logo-Primary.svg';
 
 interface QuizAnswers {
     gender: string;
@@ -229,7 +230,7 @@ const HairAnalysis = ({ onBack, lang }: HairAnalysisProps) => {
             {/* Header */}
             <header className="bg-navy w-full py-3 px-4 sm:px-8 flex items-center justify-center">
                 <img
-                    src="/src/assets/images/Elithair-Logo-Primary.svg"
+                    src={ElithairLogoPrimary}
                     alt="Elithair"
                     className="h-8 md:h-10 object-contain"
                 />
