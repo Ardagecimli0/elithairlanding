@@ -241,11 +241,12 @@ const HairAnalysis = ({ onBack, lang }: HairAnalysisProps) => {
     return (
         <div className="min-h-screen bg-[#f0e6dc] flex flex-col">
             {/* Header */}
-            <header className="bg-navy w-full py-3 px-4 sm:px-8 flex items-center justify-center">
+            <header className="bg-navy w-full py-5 md:py-3 px-4 sm:px-8 flex items-center justify-center">
                 <img
                     src={ElithairLogoPrimary}
                     alt="Elithair"
-                    className="h-8 md:h-10 object-contain"
+                    className="h-12 md:h-10 object-contain cursor-pointer"
+                    onClick={onBack}
                 />
             </header>
 

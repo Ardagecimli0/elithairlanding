@@ -121,11 +121,23 @@ const Reviews = ({ onCtaClick }: { onCtaClick?: () => void }) => {
 
   const visibleReviews = reviews.slice(currentIndex * reviewsPerPage, currentIndex * reviewsPerPage + reviewsPerPage);
 
+  // Helper to highlight specific words in coral
+  const highlightWords = (text: string, words: string[]) => {
+    const pattern = words.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+    const regex = new RegExp(`(${pattern})`, 'gi');
+    const parts = text.split(regex);
+    return parts.map((part, i) =>
+      regex.test(part) ? <span key={i} className="text-coral">{part}</span> : part
+    );
+  };
+
+  const titleHighlightWords = ['Saç Tedavisi', 'Hair Treatment', 'Haarbehandlung', 'Traitement Capillaire', 'Tratamiento Capilar', 'Trattamento dei Capelli', 'Лечение Волос'];
+
   return (
     <section className="bg-white py-16 md:py-24">
       <div className="container mx-auto px-4">
         <h2 className="text-2xl md:text-4xl font-bold text-navy text-center mb-12 max-w-3xl mx-auto">
-          {t('reviews.title')}
+          {highlightWords(t('reviews.title'), titleHighlightWords)}
         </h2>
 
         <div className="relative max-w-4xl mx-auto">
@@ -193,7 +205,7 @@ const Reviews = ({ onCtaClick }: { onCtaClick?: () => void }) => {
 
         {/* CTA Button */}
         <div className="text-center mt-10">
-          <button onClick={onCtaClick} className="bg-coral hover:bg-coral-dark text-white font-semibold py-4 px-12 rounded-full transition-colors duration-300">
+          <button onClick={onCtaClick} className="bg-coral hover:bg-coral-dark text-white font-semibold py-5 px-10 md:px-14 rounded-full transition-colors duration-300 text-lg md:text-xl">
             {t('reviews.ctaButton')}
           </button>
         </div>

@@ -16,6 +16,18 @@ const Package = ({ onCtaClick }: { onCtaClick?: () => void }) => {
     t('package.features.translator'),
   ];
 
+  // Helper to highlight specific words in coral
+  const highlightWords = (text: string, words: string[]) => {
+    const pattern = words.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+    const regex = new RegExp(`(${pattern})`, 'gi');
+    const parts = text.split(regex);
+    return parts.map((part, i) =>
+      regex.test(part) ? <span key={i} className="text-coral">{part}</span> : part
+    );
+  };
+
+  const titleHighlightWords = ['Saç Ekim', 'Hair Transplant', 'Haartransplantations', 'Greffe de Cheveux', 'Trasplante Capilar', 'Trapianto di Capelli', 'Пересадка Волос'];
+
   return (
     <section
       className="relative bg-navy py-16 md:py-24 bg-cover bg-center"
@@ -24,7 +36,7 @@ const Package = ({ onCtaClick }: { onCtaClick?: () => void }) => {
       <div className="absolute inset-0 bg-navy/80" />
       <div className="container mx-auto px-4 relative z-10">
         <h2 className="text-2xl md:text-4xl font-bold text-white text-center mb-12">
-          {t('package.title')}
+          {highlightWords(t('package.title'), titleHighlightWords)}
         </h2>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-5xl mx-auto">

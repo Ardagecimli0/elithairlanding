@@ -46,7 +46,7 @@ const Footer = () => {
               <img
                 src={ElithairLogo}
                 alt="Elithair"
-                className="h-16 object-contain brightness-0 invert"
+                className="h-24 md:h-28 object-contain brightness-0 invert"
               />
             </div>
           </div>

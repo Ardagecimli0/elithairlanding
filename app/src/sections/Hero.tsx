@@ -38,13 +38,13 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
   return (
     <section className="relative">
       {/* Header - Navy Background */}
-      <header className="bg-navy w-full z-20 flex items-center justify-between px-4 sm:px-8 py-1 relative h-11">
+      <header className="bg-navy w-full z-20 flex items-center justify-between px-4 sm:px-8 py-2 relative h-16 md:h-11">
         {/* Logo artık solda */}
         <div className="flex items-center gap-2 ml-2 sm:ml-4">
           <img
             src={ElithairLogoPrimary}
             alt="Elithair"
-            className="h-7 md:h-9 object-contain"
+            className="h-9 md:h-9 object-contain"
           />
         </div>
 
@@ -52,7 +52,7 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
         <img
           src={GoogleReviews}
           alt="Google Reviews Elithair 4.96"
-          className="h-16 md:h-20 object-contain relative z-30 translate-y-3 md:translate-y-5"
+          className="h-24 md:h-20 object-contain relative z-30 translate-y-4 md:translate-y-5"
         />
       </header>
 
@@ -91,7 +91,7 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
                   </li>
                 </ul>
 
-                <button onClick={onCtaClick} className="w-full max-w-xs bg-coral hover:bg-coral-dark text-white font-semibold py-4 px-8 rounded-full transition-colors duration-300 mb-6">
+                <button onClick={onCtaClick} className="w-full max-w-xs bg-coral hover:bg-coral-dark text-white font-semibold py-5 px-10 rounded-full transition-colors duration-300 mb-6 text-lg md:text-xl">
                   {t('hero.ctaButton')}
                 </button>
 
@@ -128,7 +128,7 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
                   </li>
                 </ul>
 
-                <button onClick={onCtaClick} className="w-full max-w-xs bg-coral hover:bg-coral-dark text-white font-semibold py-4 px-8 rounded-full transition-colors duration-300 mb-6">
+                <button onClick={onCtaClick} className="w-full max-w-xs bg-coral hover:bg-coral-dark text-white font-semibold py-5 px-10 rounded-full transition-colors duration-300 mb-6 text-lg md:text-xl">
                   {t('hero.ctaButton')}
                 </button>
 
