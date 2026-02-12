@@ -2,13 +2,12 @@ import { useState } from 'react';
 import { useTranslation } from '../i18n';
 import { Play, X } from 'lucide-react';
 import InstagramPost from '../assets/images/Instagram-post-1073-1-e1720776015653.webp';
-import ElitHairQualityVideo from '../assets/ElitHairQuality.mp4';
 
 const VideoSection = ({ onCtaClick }: { onCtaClick?: () => void }) => {
   const { t, i18n } = useTranslation();
   const [showVideo, setShowVideo] = useState(false);
 
-  const videoSrc = i18n.language === 'tr' ? ElitHairQualityVideo : '/0212.mp4';
+  const videoSrc = i18n.language === 'tr' ? '/ElitHairQuality.mp4' : '/0212.mp4';
 
   return (
     <section className="bg-navy py-16 md:py-24">

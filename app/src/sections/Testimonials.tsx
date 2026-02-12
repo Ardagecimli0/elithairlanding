@@ -2,11 +2,8 @@ import { useState, useRef, useEffect } from 'react';
 import { useTranslation } from '../i18n';
 import { Play, X } from 'lucide-react';
 import HamzaImage from '../assets/images/hamza-kapak.jpg';
-import HamzaVideo from '../assets/HamzaExperience.mp4';
 import LucasImage from '../assets/images/lucas-kapak.jpg';
-import LucasVideo from '../assets/LucasExperience.mp4';
 import BeridinImage from '../assets/images/beridin-kapak.jpg';
-import BeridinVideo from '../assets/BeridinExperience.mp4';
 
 const Testimonials = ({ onCtaClick }: { onCtaClick?: () => void }) => {
   const { t } = useTranslation();
@@ -18,17 +15,17 @@ const Testimonials = ({ onCtaClick }: { onCtaClick?: () => void }) => {
     {
       id: 1,
       image: HamzaImage,
-      videoUrl: HamzaVideo,
+      videoUrl: '/HamzaExperience.mp4',
     },
     {
       id: 2,
       image: LucasImage,
-      videoUrl: LucasVideo,
+      videoUrl: '/LucasExperience.mp4',
     },
     {
       id: 3,
       image: BeridinImage,
-      videoUrl: BeridinVideo,
+      videoUrl: '/BeridinExperience.mp4',
     },
   ];
 

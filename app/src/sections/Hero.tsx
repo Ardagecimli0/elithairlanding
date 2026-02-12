@@ -3,7 +3,6 @@ import { Check, Building2, Star, Users, Scissors } from 'lucide-react';
 import ElithairLogoPrimary from '../assets/images/Elithair-Logo-Primary.svg';
 import GoogleReviews from '../assets/images/Google-Reviews-Elithair.svg';
 import HeroClinic from '../assets/images/hero-clinic.jpg';
-import HeroVideo from '../assets/Hero.mp4';
 import MetroLogo from '../assets/images/metro.svg';
 import ExpressLogo from '../assets/images/Express.svg';
 import TheSunLogo from '../assets/images/the-sun.svg';
@@ -72,7 +71,7 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
             className="absolute w-full h-full object-cover"
             poster={HeroClinic}
           >
-            <source src={HeroVideo} type="video/mp4" />
+            <source src="/Hero.mp4" type="video/mp4" />
           </video>
           <div className="absolute inset-0 bg-gradient-to-b from-navy/40 via-navy/20 to-navy/60" />
 
