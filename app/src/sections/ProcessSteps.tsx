@@ -85,7 +85,7 @@ const ProcessSteps = ({ onCtaClick }: { onCtaClick?: () => void }) => {
 
         {/* CTA Button */}
         <div className="text-center mt-12">
-          <button onClick={onCtaClick} className="bg-coral hover:bg-coral-dark text-white font-semibold py-5 px-10 md:px-14 rounded-full transition-colors duration-300 text-lg md:text-xl">
+          <button onClick={onCtaClick} className="w-full max-w-xs animate-color-pulse text-white font-semibold py-5 px-10 md:px-14 rounded-full transition-all duration-300 text-lg md:text-xl hover:scale-105 shadow-lg">
             {t('steps.ctaButton')}
           </button>
         </div>

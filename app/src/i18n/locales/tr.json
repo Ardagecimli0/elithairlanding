@@ -119,6 +119,13 @@
       "q3": "Elithair'de saç ekimi sonrası destek hizmetleri nelerdir?",
       "q4": "Elithair'in lüks otel konaklama hizmeti hakkında bilgi verir misiniz?",
       "q5": "Elithair'de saç ekimi öncesi ve sonrası süreç nasıl ilerler?"
+    },
+    "answers": {
+      "q1": "Pre-test bölümümüz, ameliyat öncesi tüm gerekli sağlık kontrollerini kapsar. Bu, operasyonun güvenliği ve başarısı için kritik öneme sahiptir. Kan testleri, enfeksiyon taramaları ve saç analizi bu bölümde yapılır.",
+      "q2": "DHI (Direct Hair Implantation) tekniği, saç köklerinin alındıktan hemen sonra özel bir pensetle doğrudan ekilmesini sağlar. Bu yöntem, graftlerin dışarıda bekletilmesini ortadan kaldırarak köklerin hayatta kalma oranını artırır ve daha doğal sonuçlar verir.",
+      "q3": "Saç ekimi sonrası 12 aylık ücretsiz danışmanlık hizmeti sunuyoruz. Elithair App üzerinden sürecinizi takip edebilir, uzmanlarımıza sorularınızı iletebilir ve düzenli kontrollerinizi planlayabilirsiniz.",
+      "q4": "5 yıldızlı otellerde konaklama imkanı sunuyoruz. Oteliniz kliniğimize yakın mesafede olup, tüm transferleriniz şirketimiz tarafından ücretsiz olarak sağlanmaktadır. Kahvaltı dahil konaklama seçenekleri mevcuttur.",
+      "q5": "Öncesi: Online konsültasyon, fotoğraf paylaşımı ve seyahat planlaması. Sonrası: İlk 3 gün klinikte kontrol, 10. gün yara bakımı, 3-6-12 aylık takip randevuları ve sürekli online destek."
     }
   },
   "footer": {
@@ -192,5 +199,9 @@
       "kvkkLink": "KVKK metnini",
       "submit": "İlerle"
     }
+  },
+  "whatsapp": {
+    "hi": "Merhaba",
+    "message": "Merhaba, saç ekimi hakkında bilgi almak istiyorum."
   }
 }

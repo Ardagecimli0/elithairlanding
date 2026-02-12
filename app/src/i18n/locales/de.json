@@ -119,6 +119,13 @@
             "q3": "Welche Nachsorgeleistungen bietet Elithair?",
             "q4": "Können Sie Informationen über den Luxushotel-Unterkunftsservice von Elithair geben?",
             "q5": "Wie verläuft der Prozess vor und nach der Haartransplantation bei Elithair?"
+        },
+        "answers": {
+            "q1": "Unser Voruntersuchungsbereich umfasst alle notwendigen Gesundheitschecks vor der Operation. Dies ist entscheidend für die Sicherheit und den Erfolg des Eingriffs. Bluttests, Infektionsscreenings und Haaranalysen werden in diesem Bereich durchgeführt.",
+            "q2": "Die DHI-Technik (Direct Hair Implantation) ermöglicht es, Haarfollikel direkt nach der Entnahme mit einem speziellen Stift zu implantieren. Diese Methode eliminiert die Wartezeit der Grafts außerhalb des Körpers, erhöht die Überlebensrate der Wurzeln und liefert natürlichere Ergebnisse.",
+            "q3": "Wir bieten 12 Monate kostenlose Beratung nach der Haartransplantation an. Sie können Ihren Prozess über die Elithair App verfolgen, Ihre Fragen an unsere Experten senden und Ihre regelmäßigen Kontrolluntersuchungen planen.",
+            "q4": "Wir bieten Unterkunft in 5-Sterne-Hotels an. Ihr Hotel befindet sich in der Nähe unserer Klinik und alle Transfers werden kostenlos von unserem Unternehmen angeboten. Unterkunftsmöglichkeiten beinhalten Frühstück.",
+            "q5": "Vorher: Online-Beratung, Foto-Sharing und Reiseplanung. Nachher: Kontrolle in der Klinik an den ersten 3 Tagen, Wundpflege am 10. Tag, Nachsorgetermine nach 3, 6 und 12 Monaten und kontinuierlicher Online-Support."
         }
     },
     "footer": {
@@ -193,5 +200,9 @@
             "kvkkLink": "KVKK-Text",
             "submit": "Weiter"
         }
+    },
+    "whatsapp": {
+        "hi": "Hallo",
+        "message": "Hallo, ich möchte Informationen über Haartransplantationen erhalten."
     }
 }

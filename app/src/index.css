@@ -55,6 +55,22 @@
   .text-balance {
     text-wrap: balance;
   }
+
+  .animate-color-pulse {
+    animation: color-pulse 1s ease-in-out infinite alternate;
+  }
+}
+
+@keyframes color-pulse {
+  0% {
+    background-color: #E87B4F;
+    /* Coral */
+  }
+
+  100% {
+    background-color: #003B6B;
+    /* Navy */
+  }
 }
 
 /* Custom scrollbar */

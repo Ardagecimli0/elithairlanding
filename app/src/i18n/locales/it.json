@@ -119,6 +119,13 @@
             "q3": "Quali sono i servizi post-trapianto di Elithair?",
             "q4": "Potete fornire informazioni sul servizio di alloggio in hotel di lusso di Elithair?",
             "q5": "Come funziona il processo prima e dopo il trapianto presso Elithair?"
+        },
+        "answers": {
+            "q1": "La nostra sezione di pre-test copre tutti i controlli sanitari necessari prima dell'intervento. Questo è fondamentale per la sicurezza e il successo dell'operazione. In questa sezione vengono eseguiti esami del sangue, screening delle infezioni e analisi dei capelli.",
+            "q2": "La tecnica DHI (Direct Hair Implantation) consente di impiantare i follicoli piliferi direttamente con una penna speciale subito dopo l'estrazione. Questo metodo elimina il tempo di attesa degli innesti fuori dal corpo, aumentando il tasso di sopravvivenza delle radici e fornendo risultati più naturali.",
+            "q3": "Offriamo 12 mesi di servizio di consulenza gratuito post-trapianto. Puoi seguire il tuo processo tramite l'app Elithair, inviare le tue domande ai nostri esperti e pianificare i tuoi controlli regolari.",
+            "q4": "Offriamo alloggio in hotel a 5 stelle. Il tuo hotel è vicino alla nostra clinica e tutti i trasferimenti sono forniti gratuitamente dalla nostra azienda. Le opzioni di alloggio includono la colazione.",
+            "q5": "Prima: Consulenza online, condivisione di foto e pianificazione del viaggio. Dopo: Controllo in clinica i primi 3 giorni, cura delle ferite il 10° giorno, appuntamenti di controllo a 3, 6 e 12 mesi e supporto online continuo."
         }
     },
     "footer": {
@@ -193,5 +200,9 @@
             "kvkkLink": "testo KVKK",
             "submit": "Continua"
         }
+    },
+    "whatsapp": {
+        "hi": "Ciao",
+        "message": "Ciao, vorrei ricevere informazioni sul trapianto di capelli."
     }
 }

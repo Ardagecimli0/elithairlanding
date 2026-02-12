@@ -114,11 +114,18 @@
     "faq": {
         "title": "Questions fréquemment posées",
         "questions": {
-            "q1": "Quels sont les avantages de l'examen préalable chez Elithair ?",
-            "q2": "Quels sont les avantages de la technique DHI d'Elithair ?",
-            "q3": "Quels sont les services de suivi après greffe chez Elithair ?",
-            "q4": "Pouvez-vous donner des informations sur l'hébergement en hôtel de luxe d'Elithair ?",
-            "q5": "Comment se déroule le processus avant et après la greffe chez Elithair ?"
+            "q1": "Quels sont les avantages de l'examen préalable chez Elithair?",
+            "q2": "Quels sont les avantages de la technique DHI d'Elithair?",
+            "q3": "Quels sont les services de suivi après greffe chez Elithair?",
+            "q4": "Pouvez-vous donner des informations sur l'hébergement en hôtel de luxe d'Elithair?",
+            "q5": "Comment se déroule le processus avant et après la greffe chez Elithair?"
+        },
+        "answers": {
+            "q1": "Notre section de pré-test couvre tous les contrôles de santé nécessaires avant la chirurgie. C'est essentiel pour la sécurité et le succès de l'opération. Des analyses de sang, des dépistages d'infections et une analyse capillaire sont effectués dans cette section.",
+            "q2": "La technique DHI (Direct Hair Implantation) permet d'implanter les follicules pileux directement avec un stylo spécial immédiatement après l'extraction. Cette méthode élimine le temps d'attente des greffons hors du corps, augmentant le taux de survie des racines et offrant des résultats plus naturels.",
+            "q3": "Nous offrons 12 mois de service de conseil gratuit après la greffe de cheveux. Vous pouvez suivre votre processus via l'application Elithair, envoyer vos questions à nos experts et planifier vos contrôles réguliers.",
+            "q4": "Nous proposons un hébergement dans des hôtels 5 étoiles. Votre hôtel est proche de notre clinique et tous les transferts sont fournis gratuitement par notre entreprise. Les options d'hébergement incluent le petit-déjeuner.",
+            "q5": "Avant : Consultation en ligne, partage de photos et planification du voyage. Après : Contrôle à la clinique les 3 premiers jours, soins des plaies le 10e jour, rendez-vous de suivi à 3, 6 et 12 mois et assistance en ligne continue."
         }
     },
     "footer": {
@@ -193,5 +200,9 @@
             "kvkkLink": "texte KVKK",
             "submit": "Continuer"
         }
+    },
+    "whatsapp": {
+        "hi": "Bonjour",
+        "message": "Bonjour, je souhaite obtenir des informations sur la greffe de cheveux."
     }
 }

@@ -1,0 +1,207 @@
+{
+    "siteTitle": "Elithair - Klinika Przeszczepu Włosów",
+    "header": {
+        "logo": "Elithair"
+    },
+    "hero": {
+        "title": "Odzyskaj swoje włosy w największej na świecie klinice przeszczepu włosów",
+        "bullet1": "Wybierana przez ponad 100 000 europejskich pacjentów: Elithair",
+        "bullet2": "Bezbolesny przeszczep włosów metodą Deep Sleep",
+        "ctaButton": "Uzyskaj wycenę"
+    },
+    "stats": {
+        "stat1": {
+            "title": "Największa na świecie",
+            "subtitle": "Klinika Przeszczepu Włosów"
+        },
+        "stat2": {
+            "title": "5,000+ Pozytywnych",
+            "subtitle": "Opinii"
+        },
+        "stat3": {
+            "title": "Bezbolesny Przeszczep:",
+            "subtitle": "Metoda Deep Sleep"
+        },
+        "stat4": {
+            "title": "290 Ekspertów",
+            "subtitle": "Zespół Przeszczepu Włosów"
+        }
+    },
+    "videoSection": {
+        "heading": "Odkryj",
+        "highlight": "Jakość",
+        "headingSuffix": "Elithair",
+        "title": "Odkryj Jakość Elithair",
+        "description": "Poznaj proces przeszczepu włosów i ekskluzywne usługi w Elithair. Obejrzyj nasz film, aby doświadczyć komfortu i jakości, które na Ciebie czekają.",
+        "ctaButton": "Uzyskaj wycenę"
+    },
+    "steps": {
+        "title": "Etapy Przeszczepu Włosów z Elithair",
+        "step1": {
+            "title": "Udostępnianie Zdjęć",
+            "description": "Udostępnij zdjęcia swoich włosów z 3 różnych kątów, abyśmy mogli przeanalizować stan Twoich włosów."
+        },
+        "step2": {
+            "title": "Konsultacja z Ekspertami",
+            "description": "Spotkaj się z naszymi ekspertami w dogodnym dla Ciebie terminie i uzyskaj odpowiedzi na wszystkie swoje pytania."
+        },
+        "step3": {
+            "title": "Komfortowy Transfer",
+            "description": "Zapewniamy bezpieczny i komfortowy transfer z lotniska do naszej kliniki."
+        },
+        "step4": {
+            "title": "Szczegółowa Analiza Włosów",
+            "description": "Szczegółowo analizujemy strukturę i gęstość Twoich włosów za pomocą najnowszych technologii."
+        },
+        "step5": {
+            "title": "Spersonalizowane Leczenie",
+            "description": "Doświadcz bezbolesnego i skutecznego przeszczepu włosów dzięki spersonalizowanemu planowi leczenia."
+        },
+        "step6": {
+            "title": "Obserwacja z Aplikacją Elithair",
+            "description": "Otrzymuj ciągłe wsparcie na każdym etapie w trakcie i po leczeniu dzięki aplikacji Elithair."
+        },
+        "ctaButton": "Uzyskaj wycenę"
+    },
+    "results": {
+        "title": "Przed i Po Przeszczepie Włosów",
+        "description": "Zobacz wyniki przeszczepu włosów z Elithair na własne oczy.",
+        "ctaButton": "Uzyskaj wycenę",
+        "graftCount": "Graftów",
+        "details": {
+            "singleGraft": "Graft Pojedynczy",
+            "multiGraft": "Graft Wielokrotny",
+            "punch": "Punch",
+            "technique": "Technika",
+            "density": "Gęstość",
+            "duration": "Czas Trwania Zabiegu"
+        }
+    },
+    "testimonials": {
+        "title": "Doświadczenia z Przeszczepu Włosów w Elithair",
+        "ctaButton": "Uzyskaj wycenę"
+    },
+    "package": {
+        "title": "Nasz Pakiet Przeszczepu Włosów All-Inclusive",
+        "packageTitle": "Pakiet Przeszczepu Włosów DHI",
+        "features": {
+            "consultation": "Konsultacja i Planowanie Leczenia",
+            "pretest": "Badania Przedoperacyjne",
+            "dhi": "Przeszczep Włosów Techniką DHI",
+            "certificate": "Certyfikat Przeszczepu Włosów",
+            "medications": "Niezbędne Leki",
+            "shampoo": "Szampon i Balsam",
+            "hotel": "3 Noce w Luksusowym Hotelu",
+            "transfer": "Transport (Lotnisko-Hotel-Klinika)",
+            "translator": "Profesjonalny Tłumacz"
+        },
+        "ctaButton": "Uzyskaj wycenę",
+        "whyTitle": "Dlaczego Tylko Przeszczep Włosów DHI?",
+        "whyDescription": "Technika DHI wyróżnia się najnowszą technologią i wysokim wskaźnikiem powodzenia. Powody, dla których w Elithair preferujemy tylko Przeszczep Włosów DHI:",
+        "benefit1": {
+            "title": "Bezpośrednia Implantacja:",
+            "description": "Mieszki włosowe są wszczepiane natychmiast po pobraniu z obszaru dawczego. Zwiększa to przeżywalność mieszków."
+        },
+        "benefit2": {
+            "title": "Wysoki Wskaźnik Sukcesu:",
+            "description": "Metoda DHI oferuje wysoki wskaźnik sukcesu dzięki natychmiastowej implantacji mieszków. Zapewnia to trwałe i satysfakcjonujące rezultaty."
+        }
+    },
+    "reviews": {
+        "title": "Poznaj Doświadczenia Osób, Które Przeszły Zabieg w Klinice Elit",
+        "ctaButton": "Uzyskaj wycenę"
+    },
+    "faq": {
+        "title": "Często Zadawane Pytania",
+        "questions": {
+            "q1": "Jakie są zalety badań wstępnych w Elithair?",
+            "q2": "Jakie są zalety techniki DHI w Elithair?",
+            "q3": "Jakie usługi wsparcia po przeszczepie oferuje Elithair?",
+            "q4": "Czy możecie udzielić informacji o zakwaterowaniu w luksusowym hotelu Elithair?",
+            "q5": "Jak wygląda proces przed i po przeszczepie włosów w Elithair?"
+        },
+        "answers": {
+            "q1": "Nasza sekcja badań wstępnych obejmuje wszystkie niezbędne kontrole stanu zdrowia przed operacją. Jest to kluczowe dla bezpieczeństwa i powodzenia zabiegu. W tej sekcji wykonywane są badania krwi, badania przesiewowe pod kątem infekcji oraz analiza włosów.",
+            "q2": "Technika DHI (Direct Hair Implantation) umożliwia bezpośrednie wszczepienie mieszków włosowych za pomocą specjalnego pióra zaraz po ich pobraniu. Metoda ta eliminuje czas oczekiwania graftów poza organizmem, zwiększając przeżywalność cebulek i zapewniając bardziej naturalne rezultaty.",
+            "q3": "Oferujemy 12 miesięcy bezpłatnych konsultacji po przeszczepie włosów. Możesz śledzić swój proces za pośrednictwem aplikacji Elithair, zadawać pytania naszym ekspertom i planować regularne kontrole.",
+            "q4": "Oferujemy zakwaterowanie w 5-gwiazdkowych hotelach. Twój hotel znajduje się blisko naszej kliniki, a wszystkie transfery są zapewniane bezpłatnie przez naszą firmę. Opcje zakwaterowania obejmują śniadanie.",
+            "q5": "Przed: Konsultacja online, udostępnianie zdjęć i planowanie podróży. Po: Kontrola w klinice przez pierwsze 3 dni, pielęgnacja ran w 10. dniu, wizyty kontrolne po 3, 6 i 12 miesiącach oraz ciągłe wsparcie online."
+        }
+    },
+    "footer": {
+        "rights": "Wszelkie prawa zastrzeżone.",
+        "contactTitle": "Dane Kontaktowe",
+        "address": {
+            "label": "Adres",
+            "value": "Hamidiye, Cendere Cad. No: 103 – 1 T4 Blok, 34396 Kağıthane/Stambuł"
+        },
+        "email": {
+            "label": "E-mail",
+            "value": "info@elitklinik.com.tr"
+        },
+        "phone": {
+            "label": "Telefon",
+            "value": "+90 552 000 00 34"
+        }
+    },
+    "quiz": {
+        "title": "Twoja osobista analiza włosów!",
+        "contactTitle": "Proszę podać swoje dane kontaktowe",
+        "steps": {
+            "gender": {
+                "question": "Proszę wybrać płeć",
+                "female": "Kobieta",
+                "male": "Mężczyzna"
+            },
+            "hairLoss": {
+                "question": "Jak opisałbyś swoje wypadanie włosów?",
+                "receding": "Cofająca się linia włosów",
+                "crownBald": "Łysienie na czubku głowy",
+                "topThinning": "Przerzedzenie na górze",
+                "thinning": "Przerzedzone włosy",
+                "beard": "Broda"
+            },
+            "hairColor": {
+                "question": "Jaki jest Twój kolor włosów?",
+                "blonde": "Blond",
+                "brown": "Brązowy",
+                "grey": "Siwy",
+                "red": "Rudy",
+                "black": "Czarny"
+            },
+            "duration": {
+                "question": "Od jak dawna cierpisz na wypadanie włosów?",
+                "lessThan1": "Mniej niż 1 rok",
+                "1to3": "1-3 lata",
+                "3to5": "3-5 lat",
+                "moreThan5": "Powyżej 5 lat"
+            },
+            "previousTransplant": {
+                "question": "Czy miałeś już przeszczep włosów?",
+                "yes": "Tak",
+                "no": "Nie"
+            },
+            "timeline": {
+                "question": "Kiedy planujesz leczenie?",
+                "asap": "Jak najszybciej",
+                "3months": "W ciągu najbliższych 3 miesięcy",
+                "12months": "W ciągu najbliższych 12 miesięcy",
+                "justInfo": "Chcę tylko uzyskać informacje"
+            }
+        },
+        "form": {
+            "name": "Imię i Nazwisko",
+            "email": "E-mail",
+            "phone": "Telefon",
+            "commercialConsent": "Wyrażam zgodę na otrzymywanie handlowych wiadomości elektronicznych",
+            "privacyConsent": "Korzystając z tego formularza, akceptujesz",
+            "privacyLink": "politykę prywatności",
+            "kvkkLink": "tekst KVKK",
+            "submit": "Dalej"
+        }
+    },
+    "whatsapp": {
+        "hi": "Cześć",
+        "message": "Cześć, chciałbym uzyskać informacje o przeszczepie włosów."
+    }
+}

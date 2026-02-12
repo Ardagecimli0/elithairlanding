@@ -119,6 +119,13 @@
       "q3": "What are the post-hair transplant support services at Elithair?",
       "q4": "Can you provide information about Elithair's luxury hotel accommodation service?",
       "q5": "How does the before and after process work for hair transplant at Elithair?"
+    },
+    "answers": {
+      "q1": "Our pre-test section covers all necessary health checks before surgery. This is critical for the safety and success of the operation. Blood tests, infection screenings, and hair analysis are performed in this section.",
+      "q2": "The DHI (Direct Hair Implantation) technique allows hair follicles to be implanted directly with a special pen immediately after extraction. This method eliminates the waiting time for grafts outside the body, increasing the survival rate of roots and providing more natural results.",
+      "q3": "We offer 12 months of free post-hair transplant consultancy service. You can track your process via the Elithair App, send your questions to our experts, and plan your regular check-ups.",
+      "q4": "We offer accommodation in 5-star hotels. Your hotel is close to our clinic, and all transfers are provided free of charge by our company. Accommodation options include breakfast.",
+      "q5": "Before: Online consultation, photo sharing, and travel planning. After: First 3 days check-up at the clinic, 10th-day wound care, 3-6-12 month follow-up appointments, and continuous online support."
     }
   },
   "footer": {
@@ -192,5 +199,9 @@
       "kvkkLink": "KVKK text",
       "submit": "Continue"
     }
+  },
+  "whatsapp": {
+    "hi": "Hi",
+    "message": "Hello, I would like to get information about hair transplant."
   }
 }

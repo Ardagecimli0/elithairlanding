@@ -12,23 +12,23 @@ const FAQ = () => {
   const faqs = [
     {
       question: t('faq.questions.q1'),
-      answer: 'Pre-test bolumumuz, ameliyat oncesi tum gerekli saglik kontrollerini kapsar. Bu, operasyonun guvenligi ve basarisi icin kritik oneme sahiptir. Kan testleri, enfeksiyon taramalari ve sac analizi bu bolumde yapilir.',
+      answer: t('faq.answers.q1'),
     },
     {
       question: t('faq.questions.q2'),
-      answer: 'DHI (Direct Hair Implantation) teknigi, sac koklerinin alindiktan hemen sonra ozel bir pensetle dogrudan ekilmesini saglar. Bu yontem, graftlerin disarida bekletilmesini ortadan kaldirarak koklerin hayatta kalma oranini artirir ve daha dogal sonuclar verir.',
+      answer: t('faq.answers.q2'),
     },
     {
       question: t('faq.questions.q3'),
-      answer: 'Sac ekimi sonrasi 12 aylik ucretsiz danismanlik hizmeti sunuyoruz. Elithair App uzerinden surecinizi takip edebilir, uzmanlarimiza sorularinizi iletebilir ve duzenli kontrollerinizi planlayabilirsiniz.',
+      answer: t('faq.answers.q3'),
     },
     {
       question: t('faq.questions.q4'),
-      answer: '5 yildizli otellerde konaklama imkani sunuyoruz. Oteliniz klinigimize yakin mesafede olup, tum transferleriniz sirketimiz tarafindan ucretsiz olarak saglanmaktadir. Kahvalti dahil konaklama secenekleri mevcuttur.',
+      answer: t('faq.answers.q4'),
     },
     {
       question: t('faq.questions.q5'),
-      answer: 'Oncesi: Online konsultasyon, fotograf paylasimi ve seyahat planlamasi. Sonrasi: Ilk 3 gun klinikte kontrol, 10. gun yara bakimi, 3-6-12 aylik takip randevulari ve surekli online destek.',
+      answer: t('faq.answers.q5'),
     },
   ];
 

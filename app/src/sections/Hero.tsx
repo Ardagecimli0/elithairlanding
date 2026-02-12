@@ -9,6 +9,11 @@ import ExpressLogo from '../assets/images/Express.svg';
 import TheSunLogo from '../assets/images/the-sun.svg';
 import TheMailLogo from '../assets/images/the-mail.svg';
 
+import SaveTourismLogo from '../assets/images/save-tourism-100x100-1.png';
+import SaglikBakanligiLogo from '../assets/images/saglik-bakanligi-logo-100x100-1-1.png';
+import HealthTurkiyeLogo from '../assets/images/health-turkiye.png.webp';
+import TursabLogo from '../assets/images/tursab-logo-100x100-1-1.png';
+
 const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
   const { t } = useTranslation();
 
@@ -91,16 +96,24 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
                   </li>
                 </ul>
 
-                <button onClick={onCtaClick} className="w-full max-w-xs bg-coral hover:bg-coral-dark text-white font-semibold py-5 px-10 rounded-full transition-colors duration-300 mb-6 text-lg md:text-xl">
+                <button onClick={onCtaClick} className="w-full max-w-xs animate-color-pulse text-white font-semibold py-5 px-10 rounded-full transition-all duration-300 mb-6 text-lg md:text-xl hover:scale-105 shadow-lg">
                   {t('hero.ctaButton')}
                 </button>
 
                 {/* Media Logos */}
-                <div className="flex items-center justify-center gap-3 flex-wrap">
-                  <img src={MetroLogo} alt="Metro" className="h-4 object-contain" />
-                  <img src={ExpressLogo} alt="Express" className="h-4 object-contain" />
-                  <img src={TheSunLogo} alt="The Sun" className="h-4 object-contain" />
-                  <img src={TheMailLogo} alt="Daily Mail" className="h-4 object-contain" />
+                <div className="flex items-center justify-center gap-4 flex-wrap mt-2">
+                  <div className="flex items-center gap-3">
+                    <img src={MetroLogo} alt="Metro" className="h-4 object-contain" />
+                    <img src={ExpressLogo} alt="Express" className="h-4 object-contain" />
+                    <img src={TheSunLogo} alt="The Sun" className="h-4 object-contain" />
+                    <img src={TheMailLogo} alt="Daily Mail" className="h-4 object-contain" />
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <img src={SaveTourismLogo} alt="Safe Tourism" className="h-10 w-auto object-contain" />
+                    <img src={SaglikBakanligiLogo} alt="T.C. Sağlık Bakanlığı" className="h-10 w-auto object-contain" />
+                    <img src={TursabLogo} alt="TÜRSAB" className="h-10 w-auto object-contain" />
+                    <img src={HealthTurkiyeLogo} alt="Health Türkiye" className="h-10 w-auto object-contain" />
+                  </div>
                 </div>
               </div>
             </div>
@@ -128,16 +141,24 @@ const Hero = ({ onCtaClick }: { onCtaClick?: () => void }) => {
                   </li>
                 </ul>
 
-                <button onClick={onCtaClick} className="w-full max-w-xs bg-coral hover:bg-coral-dark text-white font-semibold py-5 px-10 rounded-full transition-colors duration-300 mb-6 text-lg md:text-xl">
+                <button onClick={onCtaClick} className="w-full max-w-xs animate-color-pulse text-white font-semibold py-5 px-10 rounded-full transition-all duration-300 mb-6 text-lg md:text-xl hover:scale-105 shadow-lg">
                   {t('hero.ctaButton')}
                 </button>
 
                 {/* Media Logos */}
-                <div className="flex items-center justify-center gap-3 flex-wrap">
-                  <img src={MetroLogo} alt="Metro" className="h-4 object-contain" />
-                  <img src={ExpressLogo} alt="Express" className="h-4 object-contain" />
-                  <img src={TheSunLogo} alt="The Sun" className="h-4 object-contain" />
-                  <img src={TheMailLogo} alt="Daily Mail" className="h-4 object-contain" />
+                <div className="flex items-center justify-center gap-4 flex-wrap mt-2">
+                  <div className="flex items-center gap-3">
+                    <img src={MetroLogo} alt="Metro" className="h-4 object-contain" />
+                    <img src={ExpressLogo} alt="Express" className="h-4 object-contain" />
+                    <img src={TheSunLogo} alt="The Sun" className="h-4 object-contain" />
+                    <img src={TheMailLogo} alt="Daily Mail" className="h-4 object-contain" />
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <img src={SaveTourismLogo} alt="Safe Tourism" className="h-10 w-auto object-contain" />
+                    <img src={SaglikBakanligiLogo} alt="T.C. Sağlık Bakanlığı" className="h-10 w-auto object-contain" />
+                    <img src={TursabLogo} alt="TÜRSAB" className="h-10 w-auto object-contain" />
+                    <img src={HealthTurkiyeLogo} alt="Health Türkiye" className="h-10 w-auto object-contain" />
+                  </div>
                 </div>
               </div>
             </div>

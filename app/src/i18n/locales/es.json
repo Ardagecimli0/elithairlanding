@@ -119,6 +119,13 @@
             "q3": "¿Cuáles son los servicios de seguimiento post-trasplante en Elithair?",
             "q4": "¿Puede proporcionar información sobre el servicio de alojamiento en hotel de lujo de Elithair?",
             "q5": "¿Cómo funciona el proceso antes y después del trasplante en Elithair?"
+        },
+        "answers": {
+            "q1": "Nuestra sección de pruebas previas cubre todos los controles de salud necesarios antes de la cirugía. Esto es fundamental para la seguridad y el éxito de la operación. En esta sección se realizan análisis de sangre, detección de infecciones y análisis capilar.",
+            "q2": "La técnica DHI (Direct Hair Implantation) permite implantar los folículos pilosos directamente con una pluma especial inmediatamente después de la extracción. Este método elimina el tiempo de espera de los injertos fuera del cuerpo, aumentando la tasa de supervivencia de las raíces y proporcionando resultados más naturales.",
+            "q3": "Ofrecemos 12 meses de servicio de consultoría gratuito después del trasplante capilar. Puede seguir su proceso a través de la aplicación Elithair, enviar sus preguntas a nuestros expertos y planificar sus controles regulares.",
+            "q4": "Ofrecemos alojamiento en hoteles de 5 estrellas. Su hotel está cerca de nuestra clínica y todos los traslados son proporcionados gratuitamente por nuestra empresa. Las opciones de alojamiento incluyen desayuno.",
+            "q5": "Antes: Consulta online, intercambio de fotos y planificación del viaje. Después: Control en la clínica los primeros 3 días, cuidado de heridas el día 10, citas de seguimiento a los 3, 6 y 12 meses y soporte online continuo."
         }
     },
     "footer": {
@@ -193,5 +200,9 @@
             "kvkkLink": "texto KVKK",
             "submit": "Continuar"
         }
+    },
+    "whatsapp": {
+        "hi": "Hola",
+        "message": "Hola, me gustaría obtener información sobre el trasplante capilar."
     }
 }

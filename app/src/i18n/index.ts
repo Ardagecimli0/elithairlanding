@@ -6,6 +6,7 @@ import fr from './locales/fr.json';
 import it from './locales/it.json';
 import es from './locales/es.json';
 import ru from './locales/ru.json';
+import pl from './locales/pl.json';
 
 const resources: Record<string, any> = {
   tr,
@@ -15,6 +16,7 @@ const resources: Record<string, any> = {
   it,
   es,
   ru,
+  pl,
 };
 
 // Slug → language mapping
@@ -26,6 +28,7 @@ export const SLUG_TO_LANG: Record<string, string> = {
   'trapianto-di-capelli': 'it',
   'trasplante-capilar': 'es',
   'пересадка-волос': 'ru',
+  'przeszczep-wlosow': 'pl',
 };
 
 // Language → slug mapping (reverse)

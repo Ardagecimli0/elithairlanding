@@ -3,10 +3,13 @@ import { useTranslation } from '../i18n';
 import { Play, X } from 'lucide-react';
 import InstagramPost from '../assets/images/Instagram-post-1073-1-e1720776015653.webp';
 import ElitHairQualityVideo from '../assets/ElitHairQuality.mp4';
+import AlternateVideo from '../assets/0212.mp4';
 
 const VideoSection = ({ onCtaClick }: { onCtaClick?: () => void }) => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
   const [showVideo, setShowVideo] = useState(false);
+
+  const videoSrc = i18n.language === 'tr' ? ElitHairQualityVideo : AlternateVideo;
 
   return (
     <section className="bg-navy py-16 md:py-24">
@@ -68,7 +71,7 @@ const VideoSection = ({ onCtaClick }: { onCtaClick?: () => void }) => {
               autoPlay
               className="w-full h-full rounded-lg"
             >
-              <source src={ElitHairQualityVideo} type="video/mp4" />
+              <source src={videoSrc} type="video/mp4" />
             </video>
           </div>
         </div>
